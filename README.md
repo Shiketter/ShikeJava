@@ -1,4 +1,6 @@
 #ShikeJava
 =========
+Custom Java classes
 
-##Custom Java class
+todo
+* MakeVo: add logic to write constractor
